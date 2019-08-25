@@ -50,7 +50,7 @@ local ServiceUrl="http://share.weiyun.com/"
 
 
 --FA扩展功能封装（只封装大佬们开源的）
---Author:TheHot/QQ 1027978959
+--Author:TheHot/QQ 884627189
 --感谢群里无私奉献的大佬们
 
 
